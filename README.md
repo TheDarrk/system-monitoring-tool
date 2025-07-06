@@ -1,4 +1,4 @@
-# 🔒 Secure Sentinel - ONE CLICK SYSTEM MONITORING TOOL 
+# 🔒 Secure Sentinel - One Click SYSTEM MONITORING TOOL 
 *(Portable executable - No installation needed!)*  
 
 ![Secure Sentinel Demo](screenshot/ui.png) 
