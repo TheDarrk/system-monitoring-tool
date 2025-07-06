@@ -1,7 +1,7 @@
 # 🔒 Secure Sentinel - ONE CLICK SYSTEM MONITORING TOOL 
 *(Portable executable - No installation needed!)*  
 
-![Secure Sentinel Demo](screenshots/demo.gif) <!-- Replace with actual GIF -->
+![Secure Sentinel Demo](screenshots/configure.png) 
 
 ## 🚀 Instant Protection
 - **Zero-config encryption** - Just run and protect
